@@ -1,0 +1,31 @@
+
+
+html, body {
+  margin: 0;
+  scroll-behavior: smooth; /* Enables smooth scrolling */
+  /* overflow: hidden; Prevents default scrolling */
+}
+
+.main-container {
+  height: 100vh;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+}
+
+
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+
+*{
+  font-family: unbounded;
+  font-style: normal;
+}

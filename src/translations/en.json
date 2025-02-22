@@ -1,0 +1,172 @@
+{
+  "eslint.config": {},
+  "App": {},
+  "Aboutus": {
+    "Welcome_to_Ghar_2fb309": "Welcome to Ghar Ghar Ramayan, a transformative initiative aimed at bringing the timeless teachings of the Ramayana into every household. Rooted in the values of truth, righteousness, compassion, and devotion, the Ramayana is not just an epic but a guide for living a virtuous and meaningful life. Through this movement, we aspire to rekindle the spiritual essence of the Ramayana in modern times, ensuring its teachings inspire generations to come.",
+    "About_Shri_Arun_Govil_Ji": "About Shri Arun Govil Ji",
+    "Shri_Arun_Govil_48402a": "Shri Arun Govil Ji, Member of Parliament from Meerut, is a revered figure in Indian households and a passionate advocate for promoting the values of the Ramayana. Best known for his portrayal of Lord Rama in the iconic television series, Shri Govil Ji has become a symbol of righteousness, humility, and devotion. His dedication to spreading the teachings of the Ramayana goes beyond the screen, as he actively engages in social and cultural initiatives to preserve Indiaâ€™s rich heritage.",
+    "Our_Vision": "Our Vision",
+    "To_introduce_the_c639fd": "To introduce the Ramayana as a source of wisdom and guidance in daily life.",
+    "To_inspire_families_e8b8a6": "To inspire families to uphold the values of truth, devotion, and righteousness.",
+    "To_ensure_the_524f1b": "To ensure the teachings of the Ramayana reach every home, especially the younger generation, so they can carry forward Indiaâ€™s timeless cultural and moral values.",
+    "Shri_Arun_Govil": "Shri_Arun_Govil"
+  },
+  "appointment-form": {
+    "Order_Your_Ramayana": "Order Your Ramayana",
+    "English": "English",
+    "Hindi": "Hindi",
+    "Sanskrit": "Sanskrit",
+    "Grab_Now": "Grab Now",
+    "Thank_you_for_4271bb": "Thank you for your Ramayan request Our team will send you a booking_ID and shipment details soon",
+    "Male": "Male",
+    "Female": "Female"
+  },
+  "dummy": {},
+  "BookingData": {
+    "Ramayan_Booking": "Ramayan Booking",
+    "Loading": "Loading...",
+    "Name": "Name",
+    "Mobile": "Mobile",
+    "Email": "Email",
+    "Address": "Address",
+    "CreatedDate": "CreatedDate"
+  },
+  "context": {},
+  "AboutSection": {},
+  "Countdata": {},
+  "Dashboard": {},
+  "Herosection": {},
+  "SponserSection": {},
+  "Footer": {
+    "Ghar_Ghar_Ramayan": "Ghar Ghar Ramayan",
+    "Copyright__2025_e5fd27": "Copyright Â© 2025 Ghar Ghar Ramayan - All Rights Reserved.",
+    "Follow_us": "Follow us",
+    "Email_ghargharramayangmailcom": "Email: ghargharramayan@gmail.com",
+    "Phone_Number_100800800": "Phone Number: 100-800-800",
+    "Privacy_Policy": "Privacy Policy",
+    "Terms_and_Conditions": "Terms and Conditions",
+    "Contact_Us": "Contact Us"
+  },
+  "Subscription": {
+    "Subscribe": "Subscribe",
+    "Sign_up": "Sign up",
+    "Get_10_off_378a20": "Get 10% off your first purchase when you Sign up for our newsletter!",
+    "enter_your_email": "enter your email"
+  },
+  "Navbar": {
+    "Home": "Home",
+    "Book_Sponsors": "Book Sponsors",
+    "Contact_Us": "Contact Us",
+    "NavbarLogo": "Navbar.Logo"
+  },
+  "Carousel": {},
+  "Mainpage": {
+    "Order_Now": "Order Now"
+  },
+  "CarouselTest": {},
+  "ClientComponent": {
+    "Testimonials": "Testimonials"
+  },
+  "FormDialog": {
+    "Order_Your_Ramayana": "Order Your Ramayana"
+  },
+  "HeroPage": {
+    "Its_Heritage_Essence": "Its Heritage Essence",
+    "Our_vision_is_89e0b6": "Our vision is to donate 11 Lakh Ramayana books across India in the next 5 years Books can be ordered in multiple languages",
+    "HeroPageLogo": "HeroPage.Logo",
+    "HeroPageHero_Visual": "HeroPage.Hero_Visual"
+  },
+  "MainPage": {
+    "_0__index": "= 0 && index",
+    "0__activeIndex": "0 && activeIndex"
+  },
+  "Metrices": {
+    "Metrics_from_around_India": "Metrics from around India",
+    "View_All": "View All",
+    "Copyright__2025_e5fd27": "Copyright Â© 2025 Ghar Ghar Ramayan - All Rights Reserved.",
+    "group_logo": "group logo"
+  },
+  "NewCarousel": {},
+  "Sponsornew": {
+    "Our_Strategic_Alliances": "Our Strategic Alliances"
+  },
+  "Testimonial": {
+    "Decorative_Frame": "Decorative Frame",
+    "_______________________": "बहुत अच्छी पहल है इस कारण ही सही हर सनातनी धर्म को मानने वाले अपने धर्म के बारे में पता होगा, जय श्री राम",
+    "_______________": "பஹுத் அச்சி பஹல் ஹை இஸ் காரன் ஹீ சாஹே ஹர் சனாதானி தரம் கோ மான்னே வாலே கோ அப்னே"
+  },
+  "main": {},
+  "Bookorder": {
+    "__": "घर घर रामायण",
+    "_________": "अभी ऑर्डर करें और रामायण की इस किताब को अपने",
+    "___": "घर पर प्राप्त करें",
+    "Order_now": "Order now",
+    "Ramayan_Books": "Ramayan_Books"
+  },
+  "CounterBand": {
+    "Number_of_books_delivered": "Number of books delivered"
+  },
+  "Divider": {},
+  "DotNavigation": {},
+  "Headingtext": {},
+  "ImageOuterdesign ": {
+    "Decorative_Frame": "Decorative Frame"
+  },
+  "CounterSection": {
+    "11": "11",
+    "12": "12",
+    "15045": "15045",
+    "Metrics_From_Around_India": "Metrics From Around India",
+    "Countries": "Countries",
+    "With": "With",
+    "Book": "Book",
+    "Reached": "Reached",
+    "Communities": "Communities",
+    "Worldwide": "Worldwide",
+    "Ordered": "Ordered",
+    "04": "04",
+    "Deliver": "Deliver",
+    "Total": "Total",
+    "Books": "Books"
+  },
+  "FormDialogBox": {
+    "close": "close",
+    "Illustration": "Illustration"
+  },
+  "Gallery": {},
+  "Hero": {
+    "Celebrating": "Celebrating",
+    "Ramayan": "Ramayan",
+    "Its_Heritage_Essence": "Its Heritage Essence",
+    "Order_now": "Order now"
+  },
+  "HeroSection": {
+    "Celebrating": "Celebrating",
+    "Ramayan": "Ramayan",
+    "Its_Heritage__Essence": "It's Heritage & Essence",
+    "Order_now": "Order now",
+    "Logo": "Logo",
+    "Ramayan_Cover": "Ramayan Cover"
+  },
+  "SteptoOrder": {
+    "Order_Steps": "Order Steps",
+    "Click_on_Order_now_button": "Click on Order now button",
+    "Fill_your_basic_748fbc": "Fill your basic details including full address",
+    "Ramayan_will_be_f80718": "Ramayan will be delivered to your address in 5-10 days"
+  },
+  "RamayanStudy": {
+    "500": "500",
+    "10902": "10,902",
+    "24000": "24,000",
+    "Ramayan_Study": "Ramayan Study",
+    "": "कंद"
+  },
+  "Sandesh": {
+    "Ramayan_Backdrop": "Ramayan Backdrop",
+    "Feather_and_Ink": "Feather and Ink",
+    "PMs_Letter": "PM's Letter"
+  },
+  "Sponsor": {},
+  "test": {},
+  "vite.config": {}
+}

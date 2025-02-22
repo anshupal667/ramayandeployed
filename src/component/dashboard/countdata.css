@@ -1,0 +1,35 @@
+.counter-section {
+    /* background-color: #f8f9fa; Light background */
+    /* background-color: #a82c24; */
+  }
+  
+  .counter-card {
+    background-color: #fff; /* White background for the card */
+    border: 1px solid #ddd; /* Light border */
+    transition: all 0.3s ease; /* Smooth transition for hover effect */
+    background: #f8f9fa;
+  }
+  
+  .counter-card:hover {
+    transform: translateY(-10px); /* Lift the card on hover */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Enhanced shadow on hover */
+  }
+  
+  .counter-card h3 {
+    /* font-size: 2rem;
+    font-weight: bold; */
+  }
+  
+  .counter-card p {
+    /* font-size: 1.2rem;
+    margin-top: 10px; */
+  }
+  
+  .counter-section-heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid; */
+    margin-top: 1rem;
+  }

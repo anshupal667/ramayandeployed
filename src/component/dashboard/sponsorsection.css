@@ -1,0 +1,98 @@
+.sponsors-section {
+  /* background-color: #f8f9fa; */
+  /* padding-top: 40px; */
+  padding-bottom: 40px;
+  display: flex;
+  /* background: linear-gradient(45deg, #e94e16, #6e22222e); */
+}
+
+.sponsors-section  .container{
+  /* display: flex; */
+  /* border: 1px solid; */
+}
+.sponsor-category h4 {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 20px;
+  
+}
+
+.sponsor-logo img {
+  max-width: 150px;
+  max-height: 100px;
+  object-fit: contain;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  padding: 10px;
+}
+
+.sponsor-logo img:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.text-primary {
+  color: #007bff;
+}
+
+.text-gold {
+  color: #ffd700;
+}
+
+.text-muted {
+  color: #6c757d;
+}
+
+.text-brown {
+  color: #a52a2a;
+}
+
+.sponsor-category {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.sponsor-category:hover {
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.slick-slide {
+  display: flex;
+  justify-content: center;
+}
+
+.slick-track {
+  display: flex;
+  align-items: center;
+}
+
+.title{
+  /* font-size: 19px; */
+  font-weight: bold;
+  margin-bottom: 25px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.sponsor-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sponsor-image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.sponserheading{
+  font-family: Arial, Helvetica, sans-serif
+}

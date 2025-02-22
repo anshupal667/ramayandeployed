@@ -1,0 +1,49 @@
+/* AboutUs.css */
+
+/* Styling for the top image section */
+.about-us-header {
+    position: relative;
+    background-image: url('./images/banner3.jpg'); /* Use the uploaded image path */
+    background-size: cover;
+    background-position: center;
+    height: 400px; /* Adjust the height as needed */
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    width: 101.1%;
+  }
+  
+  /* Styling for the overlay text */
+  .about-us-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .about-us-overlay h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .about-us-overlay p {
+    font-size: 1.2rem;
+  }
+  
+  /* Additional card and button styling */
+  .card-body {
+    background-color: #fff7e6;
+  }
+  
+  button {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  
+  /* AboutUs.css */
+.card img {
+    max-width: 150px; /* Adjust image size */
+    height: auto;
+    margin-bottom: 15px;
+  }
+  

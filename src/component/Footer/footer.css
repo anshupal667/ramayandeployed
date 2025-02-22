@@ -1,0 +1,52 @@
+/* Footer Styling */
+.footer {
+    /* background-color: black; */
+    color: white;
+    padding: 20px 0;
+    /* position: relative; */
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    /* padding: 20px 20px; */
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.footer-left {
+    flex: 1;
+}
+
+.footer-right {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer-list {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-list-item {
+    margin-left: 20px;
+}
+
+.footer-link {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.footer-link:hover {
+    color: #ff9800;
+}

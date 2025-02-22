@@ -1,0 +1,34 @@
+[
+    {
+      "tier": "Gold",
+      "color": "gold",
+      "sponsors": [
+        { "name": "Adani", "logo": "./images/adani1.png" }
+      ]
+    },
+    {
+      "tier": "Silver",
+      "color": "silver",
+      "sponsors": [
+        { "name": "Aditya Birla", "logo": "./images/adtiya 1.png" },
+        { "name": "NDTV", "logo": "./images/indiatv.png" },
+        { "name": "Blue Dart", "logo": "./images/bludart (1).png" },
+        { "name": "Delhivery", "logo": "./images/delhivery.png" },
+        { "name": "India TV", "logo": "./images/ndtv1.png" },
+        { "name": "Aaj Tak", "logo": "./images/aajtak1.png" }
+      ]
+    },
+    {
+      "tier": "Bronze",
+      "color": "bronze",
+      "sponsors": [
+        { "name": "HCL", "logo":"./images/hcl.png" },
+        { "name": "HDFC Bank", "logo": "./images/hdfc (2).png" },
+        { "name": "Airtel", "logo": "./images/airtel1.png" },
+        { "name": "Reliance", "logo": "./images/reliance1.png" },
+        { "name": "TCS", "logo": "./images/tcs1.png" },
+        { "name": "Vi", "logo": "./images/vodaphone.png" }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,81 @@
+.scroll-button {
+    background: transparent; 
+    border: 2px solid #CA6E3D; /* Red border */
+    border-radius: 22px; /* Oval shape */
+    padding: 0.5rem;
+    width: 2rem;
+    height: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    position: relative;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Subtle shadow for depth */
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+    margin-top: 12px;
+  }
+  
+  .scroll-button:hover {
+    background: rgba(241, 57, 57, 0.3); /* Slightly more visible on hover */
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.5); /* Enhanced shadow on hover */
+  }
+  
+  .scroll-button .inner-dot {
+    background-color: #f13939; /* Red dot */
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%; /* Circular dot */
+    animation: dotBounce 1.5s infinite ease-in-out;
+  }
+  
+  @keyframes dotBounce {
+    0% {
+      transform: translateY(0); /* Start position */
+    }
+    50% {
+      transform: translateY(-8px); /* Bounce up */
+    }
+    100% {
+      transform: translateY(0); /* Back to start */
+    }
+  }
+  
+  .chevrons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0rem; /* Space between chevrons */
+  }
+  
+  .chevron {
+    font-size: 1.5rem; /* Arrow size */
+    color: #f13939; /* Red arrow color */
+    animation: moveDownSmooth 1.5s infinite ease-in-out; /* Smooth animation */
+  }
+  
+  /* Animate the first chevron */
+  .chevron:nth-child(1) {
+    animation-delay: 0s;
+  }
+  
+  /* Animate the second chevron */
+  .chevron:nth-child(2) {
+    animation-delay: 0.75s;
+  }
+  
+  @keyframes moveDownSmooth {
+    0% {
+      transform: translateY(-8px); /* Start slightly above */
+      opacity: 0; /* Invisible */
+    }
+    50% {
+      transform: translateY(0); /* Move to original position */
+      opacity: 1; /* Fully visible */
+    }
+    100% {
+      transform: translateY(12px); /* Move further down */
+      opacity: 0; /* Fade out again */
+    }
+  }
+  

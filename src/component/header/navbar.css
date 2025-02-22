@@ -1,0 +1,341 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: grey;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+
+  .ram-img-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .ram-img {
+    width: 10vw; /* Adjust the size of the Ram image */
+    height: auto;
+  }
+  /* Navbar Styles */
+.navbar {
+  background-color: white;
+  padding: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  z-index: 9999;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  width: 12vw; /* Adjust width based on your design needs */
+}
+
+.navbar-links {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.navbar-link {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #333;
+  font-size: 16px;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar-link:hover {
+  color: #007bff;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .navbar-links {
+    justify-content: space-evenly;
+  }
+
+  .navbar-link {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .logo-img {
+    width: 30vw; /* Adjust for mobile */
+  }
+}
+
+  
+/*  */
+
+
+
+  /* CustomNavbar.css */
+
+/* Styling the Navbar */
+.custom-navbar {
+  background-color: #f5821f;  /* Change background color*/
+  padding: 10px 18px; /* Adjust padding */
+  transition: background-color 0.4s ease, box-shadow 0.4s ease; /* Smooth background and shadow transition */
+  /* box-shadow: 0px 0px 10px #999; */
+}
+
+
+
+.custom-navbar.scrolled {
+  background-color: #101c3d; /* Add your desired background color */
+  /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); Optional: Add a shadow for better visibility */
+  box-shadow: 0px 0px 10px #999;
+}
+
+
+.ms-auto{
+  margin: 0% !important;
+  /* margin-left: 20px; */
+}
+
+/* Styling the Navbar Brand */
+.navbar-brand img {
+  width: 180px; /* Adjust logo image size */
+}
+.me-auto{
+  margin-left: auto !important;
+  margin-right: 10px !important;
+}
+
+.nav-link {
+  color: #fff; /* Set the color of the links */
+  padding: 10px 15px; /* Adjust the padding */
+  margin-left: 15px;
+  font-weight: 700;
+  transition: color 0.3s ease; /* Add a smooth color transition */
+}
+
+.nav-link:hover {
+  color: #ff4000; /* Change the color on hover */
+}
+
+.custom-dropdown {
+  color: #fff; /* Set the color of the dropdown */
+}
+
+.custom-dropdown .dropdown-menu {
+  display: none;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.custom-dropdown.show .dropdown-menu {
+  display: block;
+  opacity: 1;
+}
+
+
+.dropdown-item {
+  color: #333; /* Set the color of dropdown items */
+  transition: background-color 0.3s ease; /* Add a smooth background color transition */
+}
+
+.dropdown-item:hover {
+  background-color: #eee; /* Change the background color on hover */
+  color: #333; /* Change the text color on hover */
+}
+
+
+
+/* Add this to your CustomNavbar.css file */
+
+
+
+
+
+.custom-navbar .dropdown-item:hover,
+.custom-navbar .nav-link:hover {
+  /* background-color: #2c3e50; */
+  color: red;
+}
+
+.custom-dropdown .dropdown-menu {
+  /* background-color: #1a1a1a; */
+  border: none;
+  padding: 30px;
+  width: 51vw;
+  border-radius: 25px;
+  position: absolute !important;
+  /* right: -49px !important; */
+  left: -246px;
+  top: 45px;
+  /* width:55vw; */
+}
+
+.dropdown-menu{
+  width: 51vw;
+  position: absolute !important;
+  box-shadow: 0px 0px 10px #999;
+  background-color: rgb(255, 255, 255);
+  /* overflow-y:scroll; */
+  /* right: -49px !important; */
+  left: -246px;
+  top: 51px;
+
+}
+@media (min-width: 992px) {
+  .custom-dropdown .navbar-expand-lg .navbar-nav .dropdown-menu {
+      position: absolute;
+      right: -268px !important;
+  }
+}
+
+.custom-dropdown .dropdown-item:hover {
+  background-color: #34495e;
+}
+
+.custom-dropdown {
+  /* position: relative; */
+  margin-right: 10px;
+
+}
+
+.navbar-toggler {
+  background-color: #34495e;
+}
+
+.navbar-toggler-icon {
+  background-color: #ffffff;
+}
+
+.logo-image {
+  width: 120px;
+}
+
+.custom-navbar.scrolled {
+  background-color: #34495e;
+}
+
+.navbar-expand-lg .navbar-nav {
+  margin-left: auto;
+}
+.custom-dropdown .dropdown-fullwidth{
+  width:auto;
+  display: flex;
+  /* border: 1px solid red; */
+  position: relative;
+}
+.dropdown-row{
+  display: flex;
+  flex-wrap: wrap;
+}
+/*  */
+
+.product-card {
+  position: relative;
+  padding: 12px;
+  margin: 10px;
+  width: 13vw;
+  border-radius: 20px;
+  color: white;
+  /* background: #fff; Background of the card */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer; /* Displays hand icon on hover */
+  z-index: 1;
+  /* box-shadow: -3px 8px 8px -5px rgba(0, 0, 0, 0.2); */
+}
+
+
+
+.product-card:hover {
+  transform: scale(1.1); /* Zooms out slightly */
+  box-shadow: 9px 12px 8px -9px rgba(0, 0, 0, 0.2); /* Adds shadow for depth */
+  border-color: rgba(255, 117, 140, 0.8); /* Optional: Gradient-like border effect */
+}
+.redirect-arrow {
+  font-size: 1em;
+  color: orange;
+  transition: transform 0.3s ease;
+  /* display: inline-block; */
+  position: relative;
+}
+
+.product-card:hover .redirect-arrow {
+  /* transform: translateY(-5px); Move arrow upward */
+  transform: translate3d(12px, -16px, 0px);
+}
+
+
+.product-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 20px;
+  padding: 3px; /* Thickness of the border */
+  /* background: linear-gradient(102deg, #C7BEFF -9.83%, #F3F1FF 43.97%, #FFEFC5 107.13%); */
+  /* background: linear-gradient(135deg, #ff7eb3, #ff758c); */
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: destination-out;
+  mask-composite: exclude;
+  z-index: -1;
+}
+
+
+.product-card h5{
+  color: rgb(19, 19, 61);
+  font-weight: 500;
+}
+.product-card-content a{
+  /* border-bottom:1px solid #333; */
+  /* font-size: 12px; */
+  color: #000;
+    display: block;
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+    margin-bottom: .625rem;
+}
+.product-card-title{
+    /* color: #000; */
+    color: #f3e9e9;
+    font-weight: 700;
+    font-size:16px;
+    /* font-size: 1.125rem; */
+    -webkit-transition: all 400ms;
+    transition: all 400ms;
+    /* line-height: 1.75rem; */
+    /* font-size: 1.2em;
+    font-weight: bold;
+    position: relative;
+    display: flex;
+    align-items: center; */
+    gap: 8px;
+}
+.product-intro{
+  /* border: 1px solid #d0c7c7;  */
+    width: 23vw;
+    /* margin: 13px 6px; */
+    /* padding: 13px; */
+    border-radius: 19px;
+    width: 100%;
+    display: block;
+    -webkit-transition: all 400ms;
+    transition: all 400ms;
+    border-radius: .75rem;
+    /* background: linear-gradient(102deg, #C7BEFF -9.83%, #F3F1FF 43.97%, #FFEFC5 107.13%); */
+}
+  
+  

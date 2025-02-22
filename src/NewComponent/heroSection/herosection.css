@@ -1,0 +1,167 @@
+/* Hero Section Styling */
+.hero-section {
+    background: url("./images/herosectionbg.jpg") center/cover no-repeat;
+    color: white;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    /* min-height: 100vh; Ensures full height on larger screens */
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; Centers content vertically */
+    padding-bottom: 20px;
+}
+
+/* Book Counter Badge */
+.book-counter {
+    background: #e51c23;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+}
+
+.book-counter span {
+    font-size: 14px;
+    font-weight: normal;
+    display: block;
+}
+
+/* Hero Title */
+.hero-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.highlight {
+    color: #F03622; /* Highlighted "Ramayan" */
+    font-size: 4rem;
+    line-height: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Subtitle */
+.hero-subtitle {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Description */
+.hero-description {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+}
+
+/* Order Button */
+.hero-button {
+    background: #F03622;
+    border: none;
+    padding: 12px 65px;
+    font-size: 18px;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+    color: white;
+}
+
+ .hero-button:focus{
+    background-color: none !important;
+    border-color: none !important;
+}
+
+.hero-button:hover  .btn-primary:focus{
+    background-color: none;
+    border-color: none;
+}
+.hero-button:hover {
+    background: #d83434;
+}
+
+/* Right Side Image */
+.hero-image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-image {
+    width: 100%;
+    max-width: 400px; /* Ensures image doesn’t get too big */
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* 📱 Responsive Design */
+@media (max-width: 768px) {
+    .header{
+     margin-top:-25px;
+    }
+    
+    .header-logo{
+        text-align: center;
+        width: 50%;
+    }
+    
+    .header-counter{
+        margin-top: 2.5rem;
+        margin-left: -20px;
+    }
+    .hero-section {
+        min-height: auto; /* Removes fixed height on small screens */
+        padding: 30px 20px;
+        text-align: center;
+        height: auto;
+    }
+
+    .hero-title {
+        font-size: 2.5rem;
+    }
+
+    .highlight {
+        font-size: 3rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.8rem;
+    }
+
+    .hero-description {
+        font-size: 0.9rem;
+    }
+
+    .hero-button {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+
+    .hero-image {
+        width:80%;
+        margin-top: 12px;
+    }
+}
+
+.header{
+    border:"1px solid yellow";
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-logo{
+    text-align: center;
+    /* width: 80%; */
+}
+
+.header-counter{
+    margin-top: 2.5rem;
+}
+
+.header-logo img{
+    width: 12vw;
+}

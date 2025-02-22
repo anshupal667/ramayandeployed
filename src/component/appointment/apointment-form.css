@@ -1,0 +1,50 @@
+.flex-item {
+  flex: 1 1 0px;
+  text-align: center;
+}
+.flex-conent {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+  flex: 1 1 0px;
+  align-items: center;
+  text-align: center;
+}
+
+.txt-l {
+  font-weight: 700;
+  font-size: 3.5rem;
+  color: #fff;
+  margin-top: -120px;
+}
+
+.img {
+  width: 580px;
+  height: 580px;
+}
+.divide {
+  border-right-width: thick !important;
+  margin: 3rem 0px !important;
+}
+
+.appoint-head {
+  font-weight: 600;
+  font-size: 25px;
+  text-align: start;
+  margin-top: 12px;
+  color: var(--main-color);
+  margin-left: 1.5rem;
+}
+
+.slot {
+  font-size: 16px;
+  font-weight: 500;
+  margin: -28px 4px 4px 8px;
+}
+.otp-input-class{
+  border-bottom: 1px solid gray !important;
+}
+
+.appoint-head{
+  color: #FD8C50;
+}

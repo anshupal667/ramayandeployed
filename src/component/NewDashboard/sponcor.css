@@ -1,0 +1,10 @@
+.border-column {
+    border-right: 1px solid #ECD8CDED;
+    /* 9d2d28 */
+    padding-right: 20px;
+  }
+  
+  .border-column:last-child {
+    border-right: none;
+  }
+  

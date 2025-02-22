@@ -1,0 +1,17 @@
+.custom-dot {
+  width: 12px;
+  height: 12px;
+  margin: 0 5px;
+  margin-bottom: 1rem;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.custom-dot.active {
+  width: 14px;
+  height: 14px;
+  background: #ff6600;
+}

@@ -1,0 +1,93 @@
+.sponsors-section {
+    padding: 20px ;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 1rem 0;
+  }
+  
+  .section-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #c02800;
+    /* margin-bottom: 20px; */
+  }
+  
+  .title-divider {
+    width: 80px;
+    border-top: 3px solid #a83200;
+    margin: auto;
+  }
+  
+  .sponsor-card {
+    border-radius: 15px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 20px;
+    height: 95%;
+    border:none
+  }
+  
+  /* Gold, Silver, Bronze Backgrounds */
+  .gold {
+    background:#F6D266;
+  }
+  
+  .silver {
+    background: #C4C7CA;
+  }
+  
+  .bronze {
+    background: #D4BAA0
+  }
+  
+  .tier-title {
+    font-size:1.5rem;
+    font-weight: bold;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    border-bottom: none;
+  }
+  
+  .sponsor-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding:30px;
+    background-color: white;
+  }
+  
+  .sponsor-logo {
+    max-height: 50px;
+    width: 60%;
+    /* margin: 10px; */
+    /* filter: grayscale(100%); */
+    transition: all 0.3s ease;
+  }
+  
+  .sponsor-logo:hover {
+    filter: grayscale(0%);
+    transform: scale(1.1);
+  }
+
+  .sponsor-gold-logo{
+    max-height: 70px;
+    width:50vw !important;
+    max-width: none !important;
+    /* margin: 10px; */
+    /* filter: grayscale(100%); */
+    transition: all 0.3s ease;
+  }
+
+  .sponsor-gold-logo:hover {
+    filter: grayscale(0%);
+    transform: scale(1.1);
+  }
+
+
+
+
+  

@@ -1,0 +1,82 @@
+.counter-section {
+    padding: 50px 0;
+    position: relative;
+  }
+  
+  .metric-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #a83200;
+    margin-bottom: 1rem
+   
+  }
+  
+  .title-divider {
+    width: 60px;
+    border-top: 2px solid #a83200;
+    margin: auto;
+    margin-bottom: 1rem;
+  }
+  
+  .word-cloud {
+    position: absolute;
+    width: 100%;
+    top: 30%;
+    left: 0;
+    font-size: 20px;
+    color: #ddd;
+    font-weight: 600;
+  }
+  
+  .word {
+    position: absolute;
+  }
+  .word:nth-child(1) {bottom: 45px; left: 12%;font-size: 3rem; }
+  .word:nth-child(2) {bottom:-17px; left: 29%;font-size: 3rem; }
+  .word:nth-child(3) { top: 262px; left: 75%; }
+  .word:nth-child(4) { top: -80px; left: 70%;font-size:4rem; }
+  .word:nth-child(5) { top: 43px; left: 10%; }
+  .word:nth-child(6) { top: 90%; left: 77%;font-size: 1.5rem; }
+  .word:nth-child(7) { top: 20px; left: 35%;font-size: 1.5rem; }
+  .word:nth-child(8) { top: 85px; left: 40%; }
+  .word:nth-child(9) { top: 100px; left: 10%; font-size:1rem; font-weight:900; }
+  .word:nth-child(10) { top: 30px; left: 15%; font-size:8rem; font-weight:900; }
+  .word:nth-child(11) { top: 200px; left: 10%; font-size:3rem; font-weight:900; }
+  .word:nth-child(12) { top: 70%; left: 5%; font-size: 40px; font-weight: bold; }
+  .word:nth-child(13) { top: 40%; left: 73%; font-size: 45px; font-weight: bold; }
+  .word:nth-child(14) { top: 40px; left:75%;font-size: 8rem; font-weight: bold; }
+  .word:nth-child(15) { top: 78px; left:87%;font-size: 2.5rem; font-weight: bold; }
+  .word:nth-child(16) { top: 120px; left:95%;font-size: 2rem; font-weight: bold; }
+  .word:nth-child(17) { top: 180px; left:83%;font-size:3rem }
+  .word:nth-child(18) { top: 55px; left:93%;font-size: 2.5rem;  }
+  .word:nth-child(19) { top: 40px; left:85%;font-size: 1.5rem; }
+  .word:nth-child(20) { top: 11px; left:90%;font-size: 1.5rem; }
+  .word:nth-child(21) { top: -63px; left:50%;font-size: 2.3rem; }
+  
+  .counter-content {
+    text-align: center;
+    margin-top: 2rem;
+    z-index: 1;
+  }
+  
+  .counter-title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #fab826;
+    margin-bottom: 0px;
+  }
+  
+  .text-highlight {
+    font-style: italic;
+    font-weight: bold;
+    line-height: 60%;
+  }
+  
+  .counter-number {
+    margin: 0px;
+    font-size:15rem;
+    font-weight: 900;
+    color: #fab826;
+    line-height: 85%;
+  }
+  

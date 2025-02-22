@@ -1,0 +1,38 @@
+.dividerSection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: -10px;
+}
+.divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* width: 35%; */
+    /* margin: 20px 0; */
+  }
+  
+  .circle {
+    width: 8px;
+    height: 8px;
+    background-color: #F1423F;
+    border-radius: 50%;
+    margin: 0 3px;
+  }
+  
+  .circledot {
+    width: 12px;
+    height: 12px;
+    background-color: #F1423F;
+    border-radius: 50%;
+    /* margin: 0 3px; */
+  }
+  .line {
+    flex-grow: 1;
+    height: 5px;
+    background-color: #F1423F;
+    border-radius: 5px;
+  }
+  

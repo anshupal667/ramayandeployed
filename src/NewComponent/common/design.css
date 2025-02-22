@@ -1,0 +1,20 @@
+.decorative-border {
+    width: 200px; /* Adjust as needed */
+    height: 200px;
+    border-radius: 50%;
+    background: radial-gradient(circle, white 40%, transparent 41%),
+                repeating-radial-gradient(circle, maroon, maroon 10px, transparent 11px, transparent 20px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border: 10px solid maroon; /* Outer border */
+  }
+  
+  .inner-image {
+    width: 85%;
+    height: 85%;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  

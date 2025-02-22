@@ -1,0 +1,74 @@
+{
+    "Herosection": {
+        "Description": "हमारा संकल्प है कि अगले 5 वर्षों में पूरे भारत में 11 लाख रामायण प्रतियों का विभिन्न भाषाओं में दान करें।",
+        "Ramayana": "रामायण का उत्सव",
+        "Celebrating": "",
+        "Hero_Title": "आज ही अपनी रामायण ऑर्डर करें",
+        "Sub_Title": "इसकी विरासत, सार और प्रासिंग्कता",
+        "Order_Now": "रामायण को जीवन में अपनाएं "
+    },
+    "Sandesh": {
+        "Sandesh": "संदेश"
+    },
+    "Gallery": {
+        "Gallery": "गैलरी"
+    },
+    "Partners": {
+        "Partners": "हमारे स्ट्रेटेजिक पार्टनर "
+    },
+    "OrderSteps": {
+        "OrderSteps": "ऑर्डर करने के आसान चरण"
+    },
+    "OrderBook": {
+        "GhrGhr_Ramayan": "घर-घर रामायण",
+        "Shprem": "की सप्रेम भेंट",
+        "Order_BookNow": "अभी ऑर्डर करें और रामायण की इस किताब को अपने",
+        "Prapt_kare": "घर पर प्राप्त करें",
+        "Order_Now": "रामायण को जीवन में अपनाएं "
+    },
+    "Form": {
+    "Name": "नाम",
+    "Email": "ई-मेल आईडी",
+    "Mobile": "मोबाइल नंबर",
+    "Language": "भाषा चुनें",
+    "Country": "देश",
+    "City": "शहर",
+    "District": "जिला",
+    "State": "राज्य",
+    "Pincode": "पिनकोड",
+    "Address": "क्षेत्र, सड़क, सेक्टर, गाँव"
+},
+"Counter": {
+    "Book_Delevired": "वितरित पुस्तकों की संख्या"
+},
+"Testimonial": {
+    "Testimonial": "प्रशंसापत्र"
+},
+
+    "footer": {
+      "socialLinks": {
+        "followUs": "हमें फॉलो करें",
+        "links": {
+          "instagram": "https://instagram.com",
+          "twitter": "https://twitter.com",
+          "facebook": "https://facebook.com"
+        }
+      },
+      "contactInfo": {
+        "email": "ईमेल",
+        "phone": "फ़ोन नंबर"
+      },
+      "links": {
+        "privacyPolicy": "/privacy-policy",
+        "privacyPolicyText": "गोपनीयता नीति",
+        "termsAndConditions": "/terms-and-conditions",
+        "termsAndConditionsText": "नियम और शर्तें",
+        "contactUs": "/contact-us",
+        "contactUsText": "संपर्क करें"
+      },
+      "copyright": "कॉपीराइट © 2025 घर घर रामायण - सर्वाधिकार सुरक्षित।"
+    }
+  
+  
+
+}

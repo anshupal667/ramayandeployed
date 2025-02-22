@@ -1,0 +1,52 @@
+.book-ui {
+    background-color: #f5f5f5; /* Fallback color */
+    padding: 50px 0;
+  }
+  
+  .book-title {
+    font-size: 3.5rem;
+    color: #fcf707;
+    /* color: #fea501; Orange color matching the design */
+    line-height: 1.5;
+    font-family: poppins;
+  }
+  
+  .book-subtitle {
+    font-size: 1rem;
+    color: #783336;
+    font-weight: 600;
+    /* color: white; */
+    line-height: 1.5;
+    font-family: poppins;
+  }
+  
+  .order-now {
+    background-color: #c02800; /* Darker red */
+    border: none;
+    color: white;
+    border-radius: 15px;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    transition: background-color 0.3s ease;
+    padding: 15px;
+    width: 15vw;
+  }
+  
+  .order-now:hover {
+    background-color: #d62828; /* Slightly darker on hover */
+  }
+  
+  .books-image {
+    max-height: 450px;
+    width: auto;
+  }
+
+  .book-sub-title{
+    color: #fcf707;
+    /* color: #fea501; Orange color matching the design */
+    line-height: 0.5;
+    /* text-align: center; */
+    font-size:30px;
+    font-family: poppins;
+    /* border-top: 1px solid white; */
+  }

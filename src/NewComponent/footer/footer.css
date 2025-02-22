@@ -1,0 +1,193 @@
+.bg-orange-600 {
+  background-image: url('./../../assets/footernewbg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; /* Cover the full section */
+  background-position: center;
+  width: 100%;
+  min-height: 200px;
+  padding: 20px 0;
+}
+
+/* Footer Columns */
+.footercol {
+  padding: 0.5rem;
+  border-right: 1px solid #e09382;
+  height: auto; /* Adjust height dynamically */
+}
+
+/* Remove right border on the last column for mobile */
+@media (max-width: 768px) {
+  .footercol {
+    border-right: none;
+    border-bottom: 1px solid #e09382;
+    text-align: center;
+  }
+}
+
+/* Align text and social icons for smaller screens */
+@media (max-width: 576px) {
+  .footercol, .text-md-start, .text-md-end {
+    text-align: center !important;
+  }
+
+  .d-flex {
+    justify-content: center !important;
+  }
+}
+
+/* Social Media Icons */
+.mediaicons {
+  border-radius: 50%;
+  padding: 7px;
+  border: 1px solid white;
+}
+
+/* Footer Links */
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #FFD700;
+}
+
+
+/* Privacy policy */
+
+.privacyPolicy h2 {
+  color: #333; /* Set a darker color for section titles */
+  /* font-size: 40px; */
+  margin-bottom: 15px;
+}
+
+.privacyPolicy h2::after{
+  content:'';
+  margin-left: 2px;
+  display: block;
+  width: 100px;
+  height: 5px;
+  border-radius: 20px;
+  background-color: #dc2c00;
+  margin-top: 10px;
+}
+
+
+.privacyPolicy h4 {
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: justify;
+  color: #555; /* Set text color */
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+
+  .privacyPolicy {
+    padding: 15px;
+  }
+  .panoramicImagetandc {
+    padding-top: 25% !important ;
+  }
+  .panoramicImageprivacy {
+    padding-top: 25% !important ;
+  }
+}
+
+.policies-section{
+  padding: 0 5%;
+}
+
+.collection-use-section,
+  .third-party-section,
+  .disclosure-section,
+  .security-section,
+  .integrity-retention-section,
+  .governing-law-section,
+  .grievances-section,
+  .policy-changes-section {
+    margin-top: 30px;
+    padding-bottom:1px;
+    text-align: left;
+  }
+
+  .policy-changes-section{
+    padding-bottom:40px !important;
+  }
+
+  .policies-section h2,
+  .policies-section h3 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+  }
+
+ .policies-section p {
+    text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+
+  .panoramicImageprivacy {
+    background: url(/public/images/banner3.jpg) center/cover no-repeat;
+    color: #fff;
+    text-align: center;
+    padding: 10% 0;
+  }
+
+  .privacyPolicy {
+    /* border: 1px solid #ddd;  */
+    text-align: left;
+    padding:10% 15% 5% 15%;
+    /* margin-bottom: 20px; */
+  }
+
+  /* terms and conditions */
+
+  .panoramicImagetandc {
+    background: url(/public/images/banner3.jpg) center/cover no-repeat;
+    color: #fff;
+    text-align: center;
+    padding: 10% 0;
+  }
+
+  .panoramicImagetandc h2 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  .info {
+    margin: 0 auto;
+    background-image: url(/public/images/BG_3.jpg); 
+    background-size: cover;
+  }
+  
+  .termsandC{
+    text-align: left;
+    padding:15% 20%;
+  }
+
+  .termsandC h2 {
+    color: #333; /* Set a darker color for section titles */
+    /* font-size: 40px; */
+    margin-bottom: 15px;
+  }
+  
+  .termsandC h2::after{
+    content:'';
+    margin-left: 2px;
+    display: block;
+    width: 100px;
+    height: 5px;
+    border-radius: 20px;
+    background-color: #dc2c00;
+    margin-top: 10px;
+  }
+  
+  
+  .termsandC h4 {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555; /* Set text color */
+  }
+  
