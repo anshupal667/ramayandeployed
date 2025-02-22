@@ -21,7 +21,11 @@ i18n
     detection: detectionOptions,
     interpolation: {
       escapeValue: false, // Not needed for react as it escapes by default
-    }
+    },
+    backend: {
+  loadPath: "https://anshupal667.github.io/ramayandeployed/locales/{{lng}}/translation.json",
+}
+
   });
 
 export default i18n;
