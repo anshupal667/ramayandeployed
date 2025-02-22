@@ -663,6 +663,7 @@ export default function AppointmentForm({ isVisible, onSuccess }) {
                   // "& .MuiInputBase-input":{border: "1px solid #FD8C50"}
                   "& .MuiFormLabel-root-MuiInputLabel-root.Mui-focused": { border: "1px solid red" },
                   "& .MuiOutlinedInput-notchedOutline": { borderColor: "#FD8C50" },
+                  "& .Mui-focused":{color:"#yellow"},
                   "& .MuiOutlinedInput-root": {
                     "& input:-webkit-autofill": {
                       WebkitBoxShadow: "0 0 0 1000px #28171D inset",
