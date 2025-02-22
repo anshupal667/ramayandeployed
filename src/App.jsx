@@ -20,7 +20,7 @@ const App = () => {
       <div>
         
         <Routes>
-        <Route path="/" element={<MainPage/>} />
+        <Route path="/ramayandeployed" element={<MainPage/>} />
         <Route path="/ramayan/privacypolicy" element={<PrivacyPolicyPage/>} />
         <Route path="/ramayan/terms&condition" element={<TermsAndConditionsPage/>} />
           {/* <Route path="/" element={<MainPage/>} />
