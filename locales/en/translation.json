@@ -1,0 +1,71 @@
+{
+    "Herosection": {
+        "Description": "Our vision is to donate 11 lakh Ramayan copies in multiple languages across India in the next 5 years.",
+        "Ramayana": "Ramayan",
+        "Celebrating": "Celebrating",
+        "Hero_Title": "Order your Ramayana Today",
+        "Sub_Title": "It's Heritage & Essence",
+        "Order_Now": "Order now"
+    },
+    "Sandesh": {
+        "Sandesh": "संदेश"
+    },
+    "Gallery": {
+        "Gallery": "Gallery"
+    },
+    "Partners": {
+        "Partners": "Our Strategic Partners"
+    },
+    "OrderSteps": {
+        "OrderSteps": "Easy Steps to Order"
+    },
+    "OrderBook": {
+        "GhrGhr_Ramayan": "घर घर रामायण",
+        "Shprem": "की सप्रेम भेट",
+        "Order_BookNow": "अभी ऑर्डर करें और रामायण की इस किताब को अपने",
+        "Prapt_kare": "घर पर प्राप्त करें",
+        "Order_Now": "Order now"
+    },
+    "Form": {
+        "Name": "Name",
+        "Email": "E-Mail Id",
+        "Mobile": "Mobile No.",
+        "Language": "Select Language",
+        "Country": "Country",
+        "City": "City",
+        "District": "District",
+        "State": "State",
+        "Pincode": "Pincode",
+        "Address": "Area, Street, Sector, Village",
+        "Grab Now": "Grab Now"
+    },
+    "Counter": {
+        "Book_Delevired": "Number of books delivered"
+    },
+    "Testimonial": {
+        "Testimonial": "Testimonials"
+    },
+    "footer": {
+        "socialLinks": {
+            "followUs": "Follow us",
+            "links": {
+                "instagram": "https://instagram.com",
+                "twitter": "https://twitter.com",
+                "facebook": "https://facebook.com"
+            }
+        },
+        "contactInfo": {
+            "email": "Email",
+            "phone": "Phone Number"
+          },
+        "links": {
+            "privacyPolicy": "/privacy-policy",
+            "privacyPolicyText": "Privacy Policy",
+            "termsAndConditions": "/terms-and-conditions",
+            "termsAndConditionsText": "Terms and Conditions",
+            "contactUs": "/contact-us",
+            "contactUsText": "Contact Us"
+          },
+        "copyright": "Copyright © 2025 Ghar Ghar Ramayan - All Rights Reserved."
+    }
+}

@@ -1,0 +1,186 @@
+﻿{
+    "Herosection": {
+        "Our_vision_is_to_donate_11_Lakh_Ramayana_books_across_India_in_next_5_years_Books_can_be_ordered_in_multiple_languages": "Our vision is to donate 11 Lakh Ramayana books across India in next 5 years. Books can be ordered in multiple languages.",
+        "Ramayana_Book": "Ramayana Book",
+        "Order_your_Ramayana_Today": "Order your Ramayana Today",
+        "Celebrating_Ramayana__Its_Heritage__Essence": "Celebrating Ramayana - It\u0027s Heritage \u0026 Essence"
+    },
+    "Dashboard": {},
+    "Sponsor": {},
+    "Navbar": {
+        "Contact_Us": "Contact Us",
+        "Book_Sponsors": "Book Sponsors",
+        "Home": "Home",
+        "About_Us": "About Us",
+        "Ram": "Ram",
+        "Logo": "Logo"
+    },
+    "vite.config": {},
+    "otpService": {},
+    "appointment-form": {
+        "Thank_you_for_your_Ramayan_request_Our_team_will_send_you_a_booking_ID_and_shipment_details_soon": "Thank you for your Ramayan request. Our team will send you a booking ID and shipment details soon.",
+        "English": "English",
+        "Hindi": "Hindi",
+        "Order_Your_Ramayana": "Order Your Ramayana",
+        "Female": "Female",
+        "translationsappointmentformSanskrit": "{translations.appointment-form.Sanskrit}",
+        "Male": "Male",
+        "Submit": "Submit",
+        "translationsappointmentformHindi": "{translations.appointment-form.Hindi}",
+        "Sanskrit": "Sanskrit",
+        "translationsappointmentformEnglish": "{translations.appointment-form.English}"
+    },
+    "eslint.config": {},
+    "Sponsornew": {
+        "Our_Strategic_Alliances": "Our Strategic Alliances",
+        "Scroll_to_Footer": "Scroll to Footer"
+    },
+    "Headingtext": {},
+    "SponserSection": {
+        "Our_Sponsors": "Our Sponsors"
+    },
+    "context": {},
+    "Footer": {
+        "Follow_us": "Follow us",
+        "Terms_and_Conditions": "Terms and Conditions",
+        "Ghar_Ghar_Ramayan": "Ghar Ghar Ramayan",
+        "About_Us": "About Us",
+        "Phone_Number_100800800": "Phone Number: 100-800-800",
+        "Email_ghargharramayangmailcom": "Email: ghargharramayan@gmail.com",
+        "Contact_Us": "Contact Us",
+        "Contact": "Contact",
+        "Copyright__2025_Ghar_Ghar_Ramayan__All_Rights_Reserved": "Copyright Â© 2025 Ghar Ghar Ramayan - All Rights Reserved.",
+        "Privacy_Policy": "Privacy Policy"
+    },
+    "main": {}, 
+    "Bookorder": {
+        "Ramayan_Books": "Ramayan Books",
+        "_________": "à¤…à¤­à¥€ à¤‘à¤°à¥à¤¡à¤° à¤•à¤°à¥‡à¤‚ à¤”à¤° à¤°à¤¾à¤®à¤¾à¤¯à¤£ à¤•à¥€ à¤‡à¤¸ à¤•à¤¿à¤¤à¤¾à¤¬ à¤•à¥‹ à¤…à¤ªà¤¨à¥‡",
+        "___": "à¤˜à¤° à¤ªà¤° à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤•à¤°à¥‡à¤‚",
+        "Order_now": "Order now",
+        "__": "à¤˜à¤° à¤˜à¤° à¤°à¤¾à¤®à¤¾à¤¯à¤£"
+    },
+    "BookingData": {
+        "Loading": "Loading...",
+        "Mobile": "Mobile",
+        "Created_Date": "Created Date",
+        "Address": "Address",
+        "Name": "Name",
+        "Ramayan_Booking": "Ramayan Booking",
+        "No_data_found": "No data found",
+        "Email": "Email"
+    },
+    "SteptoOrder": {
+        "Easy_Steps_to_Order": "Easy Steps to Order"
+    },
+    "CounterSection": {
+        "11": "11",
+        "12": "12",
+        "Deliver": "Deliver",
+        "Book": "Book",
+        "Reached": "Reached",
+        "Metrics_From_Around_India": "Metrics From Around India",
+        "Books": "Books",
+        "Ordered": "Ordered",
+        "Total": "Total",
+        "With": "With",
+        "04": "04",
+        "15045": "15045",
+        "Worldwide": "Worldwide",
+        "Countries": "Countries",
+        "Communities": "Communities"
+    },
+    "Countdata": {
+        "Books_Sold": "Books Sold",
+        "Communities_Reached": "Communities Reached",
+        "We_have_a_proven_track_record_of_success": "We have a proven track record of success",
+        "Our_Success": "Our Success",
+        "Families_Benefited": "Families Benefited"
+    },
+    "Metrices": {
+        "Group_Logo": "Group Logo",
+        "Copyright__2025_Ghar_Ghar_Ramayan__All_Rights_Reserved": "Copyright Â© 2025 Ghar Ghar Ramayan - All Rights Reserved.",
+        "": "à¤˜à¤°-à¤˜à¤°",
+        "View_All_": "View All â†’",
+        "Metrics_from_around_India": "Metrics from around India"
+    },
+    "dummy": {
+        "Show_backdrop": "Show backdrop",
+        "Save": "Save",
+        "Female": "Female",
+        "Book_Your_Ramayan": "Book Your Ramayan",
+        "Male": "Male"
+    },
+    "test": {},
+    "Aboutus": {
+        "To_ensure_the_teachings_of_the_Ramayana_reach_every_home_especially_the_younger_generation_so_they_can_carry_forward_Indias_timeless_cultural_and_moral_values": "To ensure the teachings of the Ramayana reach every home, especially the younger generation, so they can carry forward Indiaâ€™s timeless cultural and moral values.",
+        "To_inspire_families_to_uphold_the_values_of_truth_devotion_and_righteousness": "To inspire families to uphold the values of truth, devotion, and righteousness.",
+        "Our_Vision": "Our Vision",
+        "Shri_Arun_Govil": "Shri Arun Govil",
+        "Ghar_Ghar_Ramayan": "Ghar Ghar Ramayan",
+        "About_Shri_Arun_Govil_Ji": "About Shri Arun Govil Ji",
+        "To_introduce_the_Ramayana_as_a_source_of_wisdom_and_guidance_in_daily_life": "To introduce the Ramayana as a source of wisdom and guidance in daily life.",
+        "Welcome_to_GHAR_GHAR_Ramayan_a_transformative_initiative_aimed_at_bringing_the_timeless_teachings_of_the_Ramayana_into_every_household_Rooted_in_the_values_of_truth_righteousness_compassion_and_devotion_the_Ramayana_is_not_just_an_epic_but_a_guide_for_living_a_virtuous_and_meaningful_life_Through_this_movement_we_aspire_to_rekindle_the_spiritual_essence_of_the_Ramayana_in_modern_times_ensuring_its_teachings_inspire_generations_to_come": "Welcome to GHAR GHAR Ramayan, a transformative initiative aimed at bringing the timeless teachings of the Ramayana into every household. Rooted in the values of truth, righteousness, compassion, and devotion, the Ramayana is not just an epic but a guide for living a virtuous and meaningful life. Through this movement, we aspire to rekindle the spiritual essence of the Ramayana in modern times, ensuring its teachings inspire generations to come.",
+        "Join_us": "Join us",
+        "Bringing_the_timeless_teachings_of_the_Ramayana_into_every_household": "Bringing the timeless teachings of the Ramayana into every household.",
+        "Shri_Arun_Govil_Ji_Member_of_Parliament_from_Meerut_is_a_revered_figure_in_Indian_households_and_a_passionate_advocate_for_promoting_the_values_of_the_Ramayana_Best_known_for_his_portrayal_of_Lord_Rama_in_the_iconic_television_series_Shri_Govil_Ji_has_become_a_symbol_of_righteousness_humility_and_devotion_His_dedication_to_spreading_the_teachings_of_the_Ramayana_goes_beyond_the_screen_as_he_actively_engages_in_social_and_cultural_initiatives_to_preserve_Indias_rich_heritage": "Shri Arun Govil Ji, Member of Parliament from Meerut, is a revered figure in Indian households and a passionate advocate for promoting the values of the Ramayana. Best known for his portrayal of Lord Rama in the iconic television series, Shri Govil Ji has become a symbol of righteousness, humility, and devotion. His dedication to spreading the teachings of the Ramayana goes beyond the screen, as he actively engages in social and cultural initiatives to preserve Indiaâ€™s rich heritage.",
+        "Our_mission_is_to_make_the_sacred_text_accessible_to_over_11_lakh_households_creating_a_ripple_effect_of_positivity_wisdom_and_cultural_pride_across_the_nation_At_GHAR_GHAR_Ramayan_we_believe_the_values_enshrined_in_the_epic_can_strengthen_families_build_resilient_communities_and_provide_moral_guidance_to_navigate_todays_challenges": "Our mission is to make the sacred text accessible to over 11 lakh households, creating a ripple effect of positivity, wisdom, and cultural pride across the nation. At GHAR GHAR Ramayan, we believe the values enshrined in the epic can strengthen families, build resilient communities, and provide moral guidance to navigate todayâ€™s challenges."
+    },
+    "Testimonial": {},
+    "HeroPage": {
+        "Celebrating_Ramayana__Its_Heritage__Essence": "Celebrating Ramayana - It\u0027s Heritage \u0026 Essence",
+        "Scroll_Down": "Scroll Down",
+        "Hero_Visual": "Hero Visual",
+        "Order_your_Ramayana_Today": "Order your Ramayana Today",
+        "Our_vision_is_to_donate_11_Lakh_Ramayana_books_across_India_in_the_next_5_years_Books_can_be_ordered_in_multiple_languages": "Our vision is to donate 11 Lakh Ramayana books across India in the next 5 years. Books can be ordered in multiple languages.",
+        "Logo": "Logo"
+    },
+    "CarouselTest": {
+        "Slide_9": "Slide 9",
+        "Slide_5": "Slide 5",
+        "Slide_8": "Slide 8",
+        "Slide_10": "Slide 10",
+        "Slide_6": "Slide 6",
+        "Slide_1": "Slide 1",
+        "Slide_4": "Slide 4",
+        "Slide_7": "Slide 7",
+        "Slide_2": "Slide 2",
+        "Slide_3": "Slide 3"
+    },
+    "server": {},
+    "App": {},
+    "Mainpage": {
+        "Back_View": "Back View",
+        "Front_View": "Front View",
+        "Order_Now": "Order Now"
+    },
+    "AboutSection": {
+        "_": "\u0027à¤˜à¤°-à¤˜à¤° à¤°à¤¾à¤®à¤¾à¤¯à¤£\u0027",
+        "quote_icon": "quote icon",
+        "______________________________________________________________________________________________________": "à¤…à¤­à¤¿à¤¯à¤¾à¤¨ à¤­à¤¾à¤°à¤¤à¥€à¤¯ à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤¿ à¤à¤µà¤®à¥ à¤¸à¤‚à¤¸à¥à¤•à¤¾à¤°à¥‹à¤‚ à¤•à¥‹ à¤¹à¤° à¤˜à¤° à¤¤à¤•, à¤¹à¤° à¤ªà¤°à¤¿à¤µà¤¾à¤° à¤¤à¤• à¤ªà¤¹à¥à¤‚à¤šà¤¾à¤¨à¥‡ à¤•à¤¾ à¤à¤• à¤¸à¥à¤–à¤¦à¤¾à¤¯à¤• à¤ªà¥à¤°à¤¯à¤¾à¤¸ à¤¹à¥ˆà¥¤ à¤°à¤¾à¤®à¤¾à¤¯à¤£ à¤•à¥‡à¤µà¤² à¤à¤• à¤§à¤¾à¤°à¥à¤®à¤¿à¤• à¤—à¥à¤°à¤‚à¤¥ à¤¨à¤¹à¥€à¤‚, à¤¬à¤²à¥à¤•à¤¿ à¤œà¥€à¤µà¤¨ à¤œà¥€à¤¨à¥‡ à¤•à¥€ à¤•à¤²à¤¾ à¤”à¤° à¤†à¤§à¤¾à¤° à¤¹à¥ˆà¥¤ à¤¹à¤®à¤¾à¤°à¤¾ à¤‰à¤¦à¥à¤¦à¥‡à¤¶à¥à¤¯ à¤¹à¥ˆ à¤•à¤¿ à¤¹à¤° à¤µà¥à¤¯à¤•à¥à¤¤à¤¿ à¤‡à¤¸ à¤®à¤¹à¤¾à¤¨ à¤—à¥à¤°à¤‚à¤¥ à¤•à¥‹ à¤ªà¤¢à¤¼à¥‡, à¤‡à¤¸à¤¸à¥‡ à¤ªà¥à¤°à¥‡à¤°à¤£à¤¾ à¤²à¥‡ à¤”à¤° à¤‡à¤¸à¥‡ à¤…à¤ªà¤¨à¥‡ à¤œà¥€à¤µà¤¨ à¤®à¥‡à¤‚ à¤…à¤ªà¤¨à¤¾à¤à¥¤ à¤‡à¤¸ à¤…à¤­à¤¿à¤¯à¤¾à¤¨ à¤•à¤¾ à¤¶à¥à¤­ à¤†à¤°à¤‚à¤­ à¤…à¤¯à¥‹à¤§à¥à¤¯à¤¾ à¤®à¥‡à¤‚ à¤°à¤¾à¤®à¤²à¤²à¤¾ à¤•à¥€ à¤ªà¥à¤°à¤¾à¤£ à¤ªà¥à¤°à¤¤à¤¿à¤·à¥à¤ à¤¾ à¤•à¥€ à¤ªà¥à¤°à¤¥à¤® à¤µà¤°à¥à¤·à¤—à¤¾à¤‚à¤  à¤•à¥‹ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆà¥¤ à¤¹à¤®à¤¾à¤°à¥€ à¤ªà¥à¤°à¤­à¥ à¤¶à¥à¤°à¥€ à¤°à¤¾à¤® à¤¸à¥‡ à¤¯à¤¹à¥€ à¤ªà¥à¤°à¤¾à¤°à¥à¤¥à¤¨à¤¾ à¤¹à¥ˆ à¤•à¤¿, à¤¹à¤° à¤˜à¤° à¤”à¤° à¤¹à¤° à¤ªà¤°à¤¿à¤µà¤¾à¤° à¤®à¥‡à¤‚ à¤¨à¥ˆà¤¤à¤¿à¤• à¤®à¥‚à¤²à¥à¤¯à¥‹à¤‚ à¤•à¥€ à¤¯à¤¹ à¤§à¤°à¥‹à¤¹à¤° à¤ªà¤¹à¥à¤‚à¤šà¥‡ à¤”à¤° à¤¸à¤®à¤¾à¤œ à¤®à¥‡à¤‚ à¤¸à¤¦à¥à¤­à¤¾à¤µà¤¨à¤¾, à¤¨à¥ˆà¤¤à¤¿à¤•à¤¤à¤¾ à¤”à¤° à¤¸à¤‚à¤¸à¥à¤•à¤¾à¤°à¥‹à¤‚ à¤•à¥€ à¤ªà¥à¤¨à¤°à¥à¤¸à¥à¤¥à¤¾à¤ªà¤¨à¤¾ à¤¹à¥‹ à¤¸à¤•à¥‡à¥¤",
+        "": "à¤¹à¤®à¤¾à¤°à¤¾"
+    },
+    "FormDialog": {
+        "Order_Your_Ramayana": "Order Your Ramayana",
+        "Order_Now": "Order Now",
+        "close": "close"
+    },
+    "Subscription": {
+        "Get_10_off_your_first_purchase_when_you_sign_up_for_our_newsletter": "Get 10% off your first purchase when you sign up for our newsletter!",
+        "Sign_up": "Sign up",
+        "Email": "Email",
+        "Subscribe": "Subscribe"
+    },
+    "Divider": {},
+    "Hero": {
+        "Order_Now": "Order Now",
+        "Its_Heritage__Essence": "It\u0027s Heritage \u0026 Essence",
+        "Celebrating": "Celebrating",
+        "Ramayan": "Ramayan"
+    },
+    "NewCarousel": {},
+    "Carousel": {},
+    "ClientComponent": {
+        "Testimonials": "Testimonials"
+    }
+}
