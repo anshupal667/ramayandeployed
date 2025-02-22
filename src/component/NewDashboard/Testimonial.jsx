@@ -120,8 +120,8 @@ export default function Testimonials() {
                 p: 2,
               }}
             >
-              <Box sx={{ position: "relative", width: "100%", textAlign: "center",justifyContent:"center" ,display:"flex"}}>
-              <img
+              <Box sx={{   width: "100%", textAlign: "center",justifyContent:"center" ,display:"flex"}}>
+              {/* <img
                   src="./clientimages/outerdesign.png"
                   alt="Decorative Frame"
                   style={{
@@ -129,16 +129,17 @@ export default function Testimonials() {
                     maxWidth: "250px",
                     minWidth:isMobile ? "200px" :"none"
                   }}
-                />
+                /> */}
                 <Avatar
                   src={testimonial.img}
                   sx={{
                     width: isMobile ? 90 : 120,
                     height: isMobile ? 80 : 120,
-                    position: "absolute",
-                    top: "50%",
-                    left: "50%",
-                    transform: "translate(-50%, -50%)",
+                    border:"2px solid white"
+                    // position: "absolute",
+                    // top: "50%",
+                    // left: "50%",
+                    // transform: "translate(-50%, -50%)",
                   }}
                 />
               </Box>

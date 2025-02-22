@@ -68,7 +68,7 @@ const appointmentSchema = Yup.object().shape({
   district: Yup.string().required("District is required"),
   state: Yup.string().required("State is required"),
   country: Yup.string().required("Country is required"),
-  language: Yup.string().required("Language is required"),
+  language: Yup.string().required("Language is required").default("Hindi"),
 
   pincode: Yup.string()
     .required("Pincode is required")
@@ -131,7 +131,7 @@ export default function AppointmentForm({ isVisible, onSuccess }) {
       state: "",
       pincode: "",
       country: "",
-      language: '',
+      language: "Hindi",
       // setOtp:[''],
       //  invitationCard: null,
       dateTime: dayjs("2024-10-10")?.format("DD-MM-YYYY") + ", 12:00 - 2:00 PM",
@@ -169,7 +169,7 @@ export default function AppointmentForm({ isVisible, onSuccess }) {
       // setFormData(formDetails);
       try {
         const response = await axios.post(
-          "https://7dfe-2405-201-4055-304a-85e1-17ba-1047-412d.ngrok-free.app/api/form-data",
+          "http://localhost:3004/api/form-data",
           formDetails
         );
         // Check if response contains the booking full message
@@ -240,7 +240,7 @@ export default function AppointmentForm({ isVisible, onSuccess }) {
   // Proceed with sending OTP
   const handleOtpSend = async () => {
     try {
-      await axios.post('https://7dfe-2405-201-4055-304a-85e1-17ba-1047-412d.ngrok-free.app/send-otp', {
+      await axios.post('http://localhost:3004/send-otp', {
         mobile: formik.values.mobile
       });
       setOtpSent(true);
@@ -267,7 +267,7 @@ export default function AppointmentForm({ isVisible, onSuccess }) {
     console.log("OTP:", otp);
     try {
       const otpString = otp.join("");
-      const otpResponse = await axios.post("https://7dfe-2405-201-4055-304a-85e1-17ba-1047-412d.ngrok-free.app/verify-otp", { mobile: formik.values.mobile, otp: otpString });
+      const otpResponse = await axios.post("http://localhost:3004/verify-otp", { mobile: formik.values.mobile, otp: otpString });
 
       if (otpResponse.status === 200) {
         setIsOtpVerified(true);
@@ -290,7 +290,7 @@ export default function AppointmentForm({ isVisible, onSuccess }) {
   const validatePincode = async () => {
     if (formik.values.pincode.length === 6) {
       try {
-        const response = await axios.get(`https://7dfe-2405-201-4055-304a-85e1-17ba-1047-412d.ngrok-free.app/available-pin-code?pinCode=${formik.values.pincode}`,
+        const response = await axios.get(`http://localhost:3004/available-pin-code?pinCode=${formik.values.pincode}`,
           {
             headers: {
               "ngrok-skip-browser-warning": 69420,
@@ -672,11 +672,11 @@ export default function AppointmentForm({ isVisible, onSuccess }) {
                     },
                   },
                   marginTop: "0px !important"
-                }}
+                }}  
                 select
                 label={t("Form.Language")}
                 name="language"
-                value={formik.values.language}
+                value={formik.values.language || "Hindi"} // Ensure fallback value
                 onChange={formik.handleChange}
                 onBlur={formik.handleBlur}
                 error={formik.touched.language && Boolean(formik.errors.language)}

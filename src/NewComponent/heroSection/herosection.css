@@ -1,6 +1,6 @@
 /* Hero Section Styling */
 .hero-section {
-    background: url("./images/herosectionbg.jpg") center/cover no-repeat;
+    background: url("../../assets/herosectionbg.jpg") center/cover no-repeat;
     color: white;
     position: relative;
     width: 100%;

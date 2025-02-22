@@ -8,7 +8,7 @@
         "Order_Now": "Order now"
     },
     "Sandesh": {
-        "Sandesh": "संदेश"
+        "Sandesh": "Sandesh"
     },
     "Gallery": {
         "Gallery": "Gallery"
@@ -19,13 +19,14 @@
     "OrderSteps": {
         "OrderSteps": "Easy Steps to Order"
     },
-    "OrderBook": {
-        "GhrGhr_Ramayan": "घर घर रामायण",
-        "Shprem": "की सप्रेम भेट",
-        "Order_BookNow": "अभी ऑर्डर करें और रामायण की इस किताब को अपने",
-        "Prapt_kare": "घर पर प्राप्त करें",
-        "Order_Now": "Order now"
-    },
+   "OrderBook": {
+    "GhrGhr_Ramayan": "Ghar Ghar Ramayan",
+    "Shprem": "Ki Saprem Bhet",
+    "Order_BookNow": "Abhi Order Karen Aur Ramayan Ki Is Kitab Ko Apne",
+    "Prapt_kare": "Ghar Par Prapt Karen",
+    "Order_Now": "Order now"
+},
+
     "Form": {
         "Name": "Name",
         "Email": "E-Mail Id",

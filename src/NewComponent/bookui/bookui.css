@@ -4,7 +4,7 @@
   }
   
   .book-title {
-    font-size: 3.5rem;
+    font-size: 3rem;
     color: #fcf707;
     /* color: #fea501; Orange color matching the design */
     line-height: 1.5;
@@ -12,7 +12,7 @@
   }
   
   .book-subtitle {
-    font-size: 1rem;
+    font-size: 1.2rem;
     color: #783336;
     font-weight: 600;
     /* color: white; */
